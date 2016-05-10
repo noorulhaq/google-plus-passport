@@ -1,4 +1,4 @@
-# Passport-Google-Plus
+# Google-Plus-Passport
 
 This package is copy of 'passport-google-plus' (https://www.npmjs.com/package/passport-google-plus) package. Scince the author of 'passport-google-plus' is unable to spare time to fix issues. I have created this package to help anyone who like me was relying on this package.
 
